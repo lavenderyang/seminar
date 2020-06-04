@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  int x = 24;
+  int x = 6;
   int y = 58;
 
   printf("x is %i\n", x);
